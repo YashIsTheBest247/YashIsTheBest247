@@ -3,6 +3,7 @@
 
 
 # ⚓ Ahoy! I'm Yash Munshi
+
 ### Fullstack Engineer · AI/ML Explorer · Hardware Tinkerer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioemergence.vercel.app/)
@@ -17,8 +18,7 @@
 
 > *Passionate fullstack developer from India, sailing through the seas of AI, systems, and competitive programming.*
 
-- 🔭 Currently building **Project Groot**
-- 🌱 Currently learning **AWS & Kafka**
+- 🔭 Currently working on **Project Groot**
 - 👨‍💻 All projects live at [portfolioemergence.vercel.app](https://portfolioemergence.vercel.app/)
 - 💬 Ask me about **RLHF, Fullstack, Computer Vision, Docker**
 - 🤝 Open to **SWE roles**
@@ -29,13 +29,18 @@
 
 <div align="center">
 
-| 🏅 Achievement | 📌 Details |
-|---|---|
-| 🤖 **Samsung Fellowship** | Selected as part of **Cohort 7.0** |
-| 🏥 **Harvard HSIL** | Shortlisted for the **Harvard Health Systems Innovation Lab** at Harvard T.H. Chan School of Public Health *(India Hub)* |
-| 🛡️ **CyberPeace Finalist** | National-level cybersecurity competition finalist |
-| 🧠 **Deccan AI Expert** | Expert-level contributor at **Soul AI (Deccan AI)** |
-| 🌍 **IEO City Rank Holder** | **4th & 5th City Rank** in International English Olympiad for two consecutive years |
+```
+╔══════════════════════════════════════════════════════════════╗
+║                       🏅 ACHIEVEMENTS                        ║
+╠══════════════════════════════════════════════════════════════╣
+║  ★  Samsung Fellowship — Cohort 7.0                          ║
+║  ★  Harvard HSIL Shortlist (Harvard T.H. Chan, India Hub)    ║
+║  ★  CyberPeace Finalist                                      ║
+║  ★  Expert at Deccan AI (Soul AI)                            ║
+║  ★  IEO City Rank 4th & 5th (two consecutive years)          ║
+║  ★  Programming Camp by AlgoUniversity from 40000+ candidates║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -43,60 +48,95 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-</p>
+<div align="center">
 
-### 🌐 Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### ⚙️ Backend & DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-</p>
+<br/>
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</p>
+```
+┌─────────────────────────────────────────┐
+│            🌐  FRONTEND MAGIC           │
+└─────────────────────────────────────────┘
+```
 
-### 🤖 AI / ML / CV
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
+<br/>
+
+```
+┌─────────────────────────────────────────┐
+│          ⚙️  BACKEND POWERHOUSE         │
+└─────────────────────────────────────────┘
+```
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+<br/>
+
+```
+┌─────────────────────────────────────────┐
+│       ☁️  DEVOPS & INFRASTRUCTURE       │
+└─────────────────────────────────────────┘
+```
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
+
+```
+┌─────────────────────────────────────────┐
+│              🗄️  DATABASES              │
+└─────────────────────────────────────────┘
+```
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+<br/>
+
+```
+┌─────────────────────────────────────────┐
+│            🤖  AI / ML / CV             │
+└─────────────────────────────────────────┘
+```
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+<br/>
+
+```
+┌─────────────────────────────────────────┐
+│          🧰  TOOLS & PLATFORMS          │
+└─────────────────────────────────────────┘
+```
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
@@ -104,21 +144,35 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YashIsTheBest247&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=YashIsTheBest247&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashIsTheBest247&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashIsTheBest247&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashIsTheBest247&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashIsTheBest247&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YashIsTheBest247&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YashIsTheBest247&theme=onedark&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌊 『 Contribution Wave 』
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashIsTheBest247/YashIsTheBest247/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashIsTheBest247/YashIsTheBest247/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YashIsTheBest247/YashIsTheBest247/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -128,7 +182,7 @@
 
 <div align="center">
 
-[![Yash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashIsTheBest247&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashIsTheBest247&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
