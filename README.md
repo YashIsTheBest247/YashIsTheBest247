@@ -14,7 +14,7 @@
 
 ## 🧭 About Me
 
-> *Passionate fullstack developer from India, sailing through the seas of AI, systems, and competitive programming.*
+> *Passionate fullstack developer from India, sailing through the seas of AI, systems, and development.*
 
 - 🔭 Currently working on **Project Groot**
 - 👨‍💻 All projects live at [portfolioemergence.vercel.app](https://portfolioemergence.vercel.app/)
