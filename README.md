@@ -60,11 +60,13 @@
 
 <br/>
 
+<div align="center">
 ```
 ┌─────────────────────────────────────────┐
 │            🌐  FRONTEND MAGIC           │
 └─────────────────────────────────────────┘
 ```
+</div>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -73,11 +75,13 @@
 
 <br/>
 
+<div align="center">
 ```
 ┌─────────────────────────────────────────┐
 │          ⚙️  BACKEND POWERHOUSE         │
 └─────────────────────────────────────────┘
 ```
+</div>
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -85,11 +89,13 @@
 
 <br/>
 
+<div align="center">
 ```
 ┌─────────────────────────────────────────┐
 │       ☁️  DEVOPS & INFRASTRUCTURE       │
 └─────────────────────────────────────────┘
 ```
+</div>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -98,24 +104,28 @@
 
 <br/>
 
+<div align="center">
 ```
 ┌─────────────────────────────────────────┐
 │              🗄️  DATABASES              │
 └─────────────────────────────────────────┘
 ```
+</div>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 <br/>
 
+<div align="center">
 ```
 ┌─────────────────────────────────────────┐
 │            🤖  AI / ML / CV             │
 └─────────────────────────────────────────┘
 ```
+</div>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -127,12 +137,13 @@
 
 <br/>
 
+<div align="center">
 ```
 ┌─────────────────────────────────────────┐
 │          🧰  TOOLS & PLATFORMS          │
 └─────────────────────────────────────────┘
 ```
-
+</div>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -168,11 +179,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashIsTheBest247/YashIsTheBest247/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashIsTheBest247/YashIsTheBest247/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YashIsTheBest247/YashIsTheBest247/output/github-snake-dark.svg" />
-</picture>
+![snake gif](https://github.com/YashIsTheBest247/YashIsTheBest247/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
