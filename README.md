@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 # ⚓ Ahoy! I'm Yash Munshi
 
 ### Fullstack Engineer · AI/ML Explorer · Hardware Tinkerer
@@ -60,12 +58,7 @@
 
 <br/>
 
-
-```
-┌─────────────────────────────────────────┐
-│            🌐  FRONTEND MAGIC           │
-└─────────────────────────────────────────┘
-```
+<h3>🌐 FRONTEND MAGIC</h3>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -74,11 +67,7 @@
 
 <br/>
 
-```
-┌─────────────────────────────────────────┐
-│          ⚙️  BACKEND POWERHOUSE         │
-└─────────────────────────────────────────┘
-```
+<h3>⚙️ BACKEND POWERHOUSE</h3>
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -86,11 +75,7 @@
 
 <br/>
 
-```
-┌─────────────────────────────────────────┐
-│       ☁️  DEVOPS & INFRASTRUCTURE       │
-└─────────────────────────────────────────┘
-```
+<h3>☁️ DEVOPS & INFRASTRUCTURE</h3>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -99,11 +84,7 @@
 
 <br/>
 
-```
-┌─────────────────────────────────────────┐
-│              🗄️  DATABASES              │
-└─────────────────────────────────────────┘
-```
+<h3>🗄️ DATABASES</h3>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -112,11 +93,7 @@
 
 <br/>
 
-```
-┌─────────────────────────────────────────┐
-│            🤖  AI / ML / CV             │
-└─────────────────────────────────────────┘
-```
+<h3>🤖 AI / ML / CV</h3>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -128,11 +105,8 @@
 
 <br/>
 
-```
-┌─────────────────────────────────────────┐
-│          🧰  TOOLS & PLATFORMS          │
-└─────────────────────────────────────────┘
-```
+<h3>🧰 TOOLS & PLATFORMS</h3>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -168,7 +142,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/YashIsTheBest247/YashIsTheBest247/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/YashIsTheBest247/YashIsTheBest247/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
