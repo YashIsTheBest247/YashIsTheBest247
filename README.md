@@ -2,7 +2,7 @@
 
 # ⚓ Ahoy! I'm Yash Munshi
 
-### Fullstack Engineer · AI/ML Explorer · Hardware Tinkerer
+### Fullstack Engineer · AI/ML Explorer · Deccan AI Expert
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioemergence.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-munshi-a0408b337/)
