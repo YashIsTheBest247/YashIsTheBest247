@@ -1,6 +1,6 @@
 <div align="center">
 
-![Pirate Ship](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
+
 
 # ⚓ Ahoy! I'm Yash Munshi
 ### Fullstack Engineer · AI/ML Explorer · Hardware Tinkerer
