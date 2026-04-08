@@ -60,13 +60,12 @@
 
 <br/>
 
-<div align="center">
+
 ```
 ┌─────────────────────────────────────────┐
 │            🌐  FRONTEND MAGIC           │
 └─────────────────────────────────────────┘
 ```
-</div>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -75,13 +74,11 @@
 
 <br/>
 
-<div align="center">
 ```
 ┌─────────────────────────────────────────┐
 │          ⚙️  BACKEND POWERHOUSE         │
 └─────────────────────────────────────────┘
 ```
-</div>
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -89,13 +86,11 @@
 
 <br/>
 
-<div align="center">
 ```
 ┌─────────────────────────────────────────┐
 │       ☁️  DEVOPS & INFRASTRUCTURE       │
 └─────────────────────────────────────────┘
 ```
-</div>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -104,13 +99,11 @@
 
 <br/>
 
-<div align="center">
 ```
 ┌─────────────────────────────────────────┐
 │              🗄️  DATABASES              │
 └─────────────────────────────────────────┘
 ```
-</div>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -119,13 +112,11 @@
 
 <br/>
 
-<div align="center">
 ```
 ┌─────────────────────────────────────────┐
 │            🤖  AI / ML / CV             │
 └─────────────────────────────────────────┘
 ```
-</div>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -137,13 +128,11 @@
 
 <br/>
 
-<div align="center">
 ```
 ┌─────────────────────────────────────────┐
 │          🧰  TOOLS & PLATFORMS          │
 └─────────────────────────────────────────┘
 ```
-</div>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
