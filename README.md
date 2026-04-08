@@ -31,7 +31,7 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                       🏅 ACHIEVEMENTS                        ║
 ╠══════════════════════════════════════════════════════════════╣
-║  ★  Samsung Fellowship — Cohort 7.0 (ISWDP)                  ║
+║  ★  Samsung Fellowship Offer— Cohort 7.0 (ISWDP)             ║
 ║  ★  Harvard HSIL Shortlist (Harvard T.H. Chan, India Hub)    ║
 ║  ★  CyberPeace Finalist                                      ║
 ║  ★  Expert at Deccan AI (Soul AI)                            ║
