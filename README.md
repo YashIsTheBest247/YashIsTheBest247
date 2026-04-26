@@ -28,17 +28,17 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                       🏅 ACHIEVEMENTS                        ║
-╠══════════════════════════════════════════════════════════════╣
-║  ★  Samsung Fellowship Offer— Cohort 7.0 (ISWDP)             ║
-║  ★  Harvard HSIL Shortlist (Harvard T.H. Chan, India Hub)    ║
-║  ★  CyberPeace Finalist                                      ║
-║  ★  Expert at Deccan AI (Soul AI)                            ║
-║  ★  IEO City Rank 4th & 5th (two consecutive years)          ║
-║  ★  Programming Camp by AlgoUniversity from 40000+ candidates║
-║  ★ Special Social Work Awardee by EduCare                    ║
-╚══════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════════════╗
+║                             🏅 ACHIEVEMENTS                            ║
+╠═════════════════════════════════════════════════════════════════════════╣
+║  ★  Samsung Fellowship Offer — Cohort 7.0 (ISWDP)                      ║
+║  ★  Harvard HSIL Selected Participant(Harvard T.H. Chan, India Hub)    ║
+║  ★  CyberPeace Hackathon Finalist                                      ║
+║  ★  Expert at Deccan AI (Soul AI)                                      ║
+║  ★  IEO City Rank 4th & 5th (two consecutive years)                    ║
+║  ★  Programming Camp by AlgoUniversity from 40000+ candidates          ║
+║  ★  Special Social Work Awardee by EduCare                             ║
+╚═════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
