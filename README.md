@@ -17,7 +17,7 @@
 > *Passionate fullstack developer from India, sailing through the seas of AI, systems, and development.*
 
 - 🔭 Currently working on **Project Groot**
-- 👨‍💻 All projects live at [portfolioemergence.vercel.app](https://yash-munshi.vercel.app/)
+- 👨‍💻 All projects live at [(https://yash-munshi.vercel.app/)]
 - 💬 Ask me about **RLHF, Fullstack, Computer Vision, Docker**
 - 🤝 Open to **SWE roles**
 
