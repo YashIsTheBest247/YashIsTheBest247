@@ -32,17 +32,6 @@
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YashIsTheBest247&theme=onedark&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-
 ## 📈 Activity Graph
 
 <div align="center">
