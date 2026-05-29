@@ -42,15 +42,6 @@
 
 ---
 
-## 🌊 『 Contribution Wave 』
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YashIsTheBest247/YashIsTheBest247/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
 
 ## 📈 Activity Graph
 
@@ -60,17 +51,6 @@
 
 </div>
 
----
-
-## 🔗 Connect with Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-portfolioemergence.vercel.app-FF5733?style=for-the-badge)](https://portfolioemergence.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yash--munshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-munshi-a0408b337/)
-[![GitHub](https://img.shields.io/badge/GitHub-YashIsTheBest247-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashIsTheBest247)
-
-</div>
 
 ---
 
