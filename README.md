@@ -20,33 +20,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity Graph
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YashIsTheBest247&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yash's GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashIsTheBest247&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YashIsTheBest247&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashIsTheBest247&theme=tokyo-night&hide_border=true" alt="Yash's GitHub Activity Graph" />
+[![Yash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashIsTheBest247&theme=tokyo-night&hide_border=true)](https://github.com/YashIsTheBest247)
 
 </div>
 
@@ -56,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YashIsTheBest247&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=YashIsTheBest247&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -64,7 +42,7 @@
 
 <div align="center">
 
-*⚓ "A smooth sea never made a skilled sailor."*
+⚓ *"A smooth sea never made a skilled sailor."*
 
 *Setting sail, one commit at a time.*
 
