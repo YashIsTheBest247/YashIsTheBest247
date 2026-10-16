@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # ⚓ Ahoy! I'm Yash Munshi
@@ -23,7 +24,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashIsTheBest247&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YashIsTheBest247&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yash's GitHub Stats" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashIsTheBest247&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YashIsTheBest247&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -33,17 +46,26 @@
 
 <div align="center">
 
-[![Yash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashIsTheBest247&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashIsTheBest247&theme=tokyo-night&hide_border=true" alt="Yash's GitHub Activity Graph" />
 
 </div>
 
+---
+
+## 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YashIsTheBest247&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
 
 ---
 
 <div align="center">
 
-*⚓ "A smooth sea never made a skilled sailor." — Setting sail, one commit at a time.*
+*⚓ "A smooth sea never made a skilled sailor."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YashIsTheBest247&color=blueviolet&style=for-the-badge)
+*Setting sail, one commit at a time.*
 
 </div>
