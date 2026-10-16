@@ -1,54 +1,62 @@
+
 <div align="center">
 
-# ⚓ Yash Munshi
+# ⚓ Ahoy! I'm Yash Munshi
 
-### Fullstack Engineer · AI/ML Explorer · Backend Systems
+### Fullstack Engineer · AI/ML Explorer · Deccan AI Expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-munshi-a0408b337/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashIsTheBest247)
 
 </div>
 
 ---
 
-## About Me
+## 🧭 About Me
 
-- B.Tech ECSE @ KIIT — CGPA 9.15 — Graduating 2027
-- Backend Developer Intern @ NexCell Solutions (London, UK)
-- LLM Evaluation Engineer @ Soul AI
-- 2x Hackathon Winner · Samsung Fellowship Cohort 7.0
-- Ask me about **RLHF, Fullstack, Computer Vision, Docker**
-- Open to **SWE / Backend / Fullstack roles**
+> *Passionate fullstack developer from India, sailing through the seas of AI, systems, and development.*
+
+- 💬 Ask me about **RLHF, Fullstack, Computer Vision, Docker**
+- 🤝 Open to **SWE roles**
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashIsTheBest247&show_icons=true&theme=tokyo_night&hide_border=true)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YashIsTheBest247&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yash's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashIsTheBest247&layout=compact&theme=tokyo_night&hide_border=true)
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashIsTheBest247&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 </div>
 
 ---
 
-## GitHub Activity
+## 🔥 GitHub Streak
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashIsTheBest247&theme=tokyo-night&hide_border=true)](https://github.com/YashIsTheBest247)
+<img src="https://streak-stats.demolab.com?user=YashIsTheBest247&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
 
 ---
 
-## Profile Views
+## 📈 Activity Graph
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YashIsTheBest247&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashIsTheBest247&theme=tokyo-night&hide_border=true" alt="Yash's GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YashIsTheBest247&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -56,7 +64,7 @@
 
 <div align="center">
 
-⚓ *"A smooth sea never made a skilled sailor."*
+*⚓ "A smooth sea never made a skilled sailor."*
 
 *Setting sail, one commit at a time.*
 
