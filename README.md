@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 # ⚓ Ahoy! I'm Yash Munshi
 
@@ -20,23 +19,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YashIsTheBest247&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yash's GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashIsTheBest247&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YashIsTheBest247&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=YashIsTheBest247&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -46,7 +33,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashIsTheBest247&theme=tokyo-night&hide_border=true" alt="Yash's GitHub Activity Graph" />
+<a href="https://github.com/YashIsTheBest247">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashIsTheBest247&theme=tokyo-night&hide_border=true&area=true" alt="Yash's GitHub Activity Graph" width="100%" />
+</a>
 
 </div>
 
@@ -56,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YashIsTheBest247&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=YashIsTheBest247&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
